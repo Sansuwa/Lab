@@ -8,12 +8,8 @@
     </head>
 
     <body>
-        <?php
-
-            $studentName = "Hello World";
-            
-            echo "<p>college: $student</p>";
-            
-        ?>
+        <h1>
+            Hello World!!
+        </h1>
     </body> 
 </html>
